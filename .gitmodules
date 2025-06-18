@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:mrohne/grbl-esp32c6-core.git
+[submodule "soft"]
+	path = soft
+	url = git@github.com:mrohne/grbl-esp32c6-soft.git
